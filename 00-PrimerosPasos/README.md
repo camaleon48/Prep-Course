@@ -38,7 +38,7 @@ Hay varios, puedes probarlos y optar por el que te sientas más a gusto.
 
 A continuación veremos una lista de los más populares:
 
-### Sublime Text
+### Sublime Text .
 
 ![Sublime Text](/_src/assets/00-PrimerosPasos/sublimeText_screen.png)
 
